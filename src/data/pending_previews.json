@@ -1,0 +1,132 @@
+{
+  "horror_stories_20250807_080509_472393f5": {
+    "id": "horror_stories_20250807_080509_472393f5",
+    "channel_id": "horror_stories",
+    "title": "الصوت في الليل",
+    "content": "في ليلة مظلمة وباردة، حدث شيء غريب لم يكن أحد يتوقعه. كانت الأصوات تأتي من العلية، أصوات خطوات بطيئة ومخيفة. عندما صعد أحمد للتحقق، وجد شيئاً لم يكن يتوقعه أبداً...",
+    "hashtags": [
+      "#رعب",
+      "#قصص_مخيفة",
+      "#حكايات",
+      "#تشويق",
+      "#غموض"
+    ],
+    "media_files": {
+      "image": "/home/ubuntu/ai_content_automation_enhanced/src/data/media/images/horror_stories_20250807_080509_472393f5.jpg",
+      "video": "/home/ubuntu/ai_content_automation_enhanced/src/data/media/videos/horror_stories_20250807_080509_472393f5.mp4"
+    },
+    "created_at": "2025-08-07T08:05:09.200320",
+    "status": "preview",
+    "scheduled_time": null,
+    "preview_deadline": "2025-08-07T22:00:00",
+    "auto_publish_time": "2025-08-07T22:00:00",
+    "approval_user": null,
+    "rejection_reason": null,
+    "publish_attempts": 0,
+    "max_publish_attempts": 3
+  },
+  "islamic_stories_20250807_080510_fbd75a3a": {
+    "id": "islamic_stories_20250807_080510_fbd75a3a",
+    "channel_id": "islamic_stories",
+    "title": "الصحابي الكريم",
+    "content": "في عهد الرسول صلى الله عليه وسلم، كان هناك صحابي جليل يُضرب به المثل في الكرم والعطاء. قصته تعلمنا أن العطاء الحقيقي يأتي من القلب، وأن البركة في العطاء وليس في الأخذ.",
+    "hashtags": [
+      "#إسلامي",
+      "#قصص_الصحابة",
+      "#السيرة_النبوية",
+      "#تاريخ_إسلامي",
+      "#إلهام"
+    ],
+    "media_files": {
+      "image": "/home/ubuntu/ai_content_automation_enhanced/src/data/media/images/islamic_stories_20250807_080510_fbd75a3a.jpg",
+      "video": "/home/ubuntu/ai_content_automation_enhanced/src/data/media/videos/islamic_stories_20250807_080510_fbd75a3a.mp4"
+    },
+    "created_at": "2025-08-07T08:05:10.037428",
+    "status": "preview",
+    "scheduled_time": null,
+    "preview_deadline": "2025-08-07T22:00:00",
+    "auto_publish_time": "2025-08-07T22:00:00",
+    "approval_user": null,
+    "rejection_reason": null,
+    "publish_attempts": 0,
+    "max_publish_attempts": 3
+  },
+  "home_design_20250807_080510_c1b68f24": {
+    "id": "home_design_20250807_080510_c1b68f24",
+    "channel_id": "home_design",
+    "title": "تصميم غرفة المعيشة",
+    "content": "إذا كنت تريد تجديد منزلك بميزانية محدودة، إليك نصيحة ذهبية: ابدأ بتغيير الإضاءة. الإضاءة الجيدة يمكنها تحويل أي مساحة من عادية إلى استثنائية.",
+    "hashtags": [
+      "#تصميم_منازل",
+      "#ديكور",
+      "#عقارات",
+      "#استثمار_عقاري",
+      "#تصميم_داخلي"
+    ],
+    "media_files": {
+      "image": "/home/ubuntu/ai_content_automation_enhanced/src/data/media/images/home_design_20250807_080510_c1b68f24.jpg",
+      "video": "/home/ubuntu/ai_content_automation_enhanced/src/data/media/videos/home_design_20250807_080510_c1b68f24.mp4"
+    },
+    "created_at": "2025-08-07T08:05:10.438024",
+    "status": "preview",
+    "scheduled_time": null,
+    "preview_deadline": "2025-08-07T22:00:00",
+    "auto_publish_time": "2025-08-07T22:00:00",
+    "approval_user": null,
+    "rejection_reason": null,
+    "publish_attempts": 0,
+    "max_publish_attempts": 3
+  },
+  "motivation_20250807_080510_908b37a4": {
+    "id": "motivation_20250807_080510_908b37a4",
+    "channel_id": "motivation",
+    "title": "تحقيق الأهداف",
+    "content": "النجاح ليس نهاية الطريق، والفشل ليس نهاية العالم. الشجاعة للاستمرار هي ما يهم حقاً. كل يوم جديد هو فرصة جديدة لتحقيق أحلامك.",
+    "hashtags": [
+      "#تحفيز",
+      "#إلهام",
+      "#نجاح",
+      "#تطوير_الذات",
+      "#اقتباسات"
+    ],
+    "media_files": {
+      "image": "/home/ubuntu/ai_content_automation_enhanced/src/data/media/images/motivation_20250807_080510_908b37a4.jpg",
+      "video": "/home/ubuntu/ai_content_automation_enhanced/src/data/media/videos/motivation_20250807_080510_908b37a4.mp4"
+    },
+    "created_at": "2025-08-07T08:05:10.821345",
+    "status": "preview",
+    "scheduled_time": null,
+    "preview_deadline": "2025-08-07T22:00:00",
+    "auto_publish_time": "2025-08-07T22:00:00",
+    "approval_user": null,
+    "rejection_reason": null,
+    "publish_attempts": 0,
+    "max_publish_attempts": 3
+  },
+  "ai_chef_20250807_080511_7ff67207": {
+    "id": "ai_chef_20250807_080511_7ff67207",
+    "channel_id": "ai_chef",
+    "title": "حلوى سريعة",
+    "content": "وصفة اليوم: معكرونة بالصلصة الحمراء. المقادير بسيطة والطعم رائع. ستحتاج إلى معكرونة، طماطم، ثوم، وبصل. الطريقة سهلة ولذيذة.",
+    "hashtags": [
+      "#طبخ",
+      "#وصفات",
+      "#AI_Chef",
+      "#مطبخ_عالمي",
+      "#طعام_لذيذ"
+    ],
+    "media_files": {
+      "image": "/home/ubuntu/ai_content_automation_enhanced/src/data/media/images/ai_chef_20250807_080511_7ff67207.jpg",
+      "video": "/home/ubuntu/ai_content_automation_enhanced/src/data/media/videos/ai_chef_20250807_080511_7ff67207.mp4"
+    },
+    "created_at": "2025-08-07T08:05:11.203790",
+    "status": "preview",
+    "scheduled_time": null,
+    "preview_deadline": "2025-08-07T22:00:00",
+    "auto_publish_time": "2025-08-07T22:00:00",
+    "approval_user": null,
+    "rejection_reason": null,
+    "publish_attempts": 0,
+    "max_publish_attempts": 3
+  }
+}
